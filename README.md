@@ -1,6 +1,6 @@
 # DigitalFUTURES 2020
 
-The official repo for the _Artificial Intelligence for Resilient Urban Planning_ workshop by the City Intelligence Lab. The workshop was conducted from the 28th of June to the 3rd of August and was streamed live to our [YouTube channel](https://www.youtube.com/playlist?list=PLmEjjLGXj_meytRKhNccd_m5z6UUpsqM8). This repo contains all of the workshop slides and files.
+The official repo for the _Artificial Intelligence for Resilient Urban Planning_ workshop by the City Intelligence Lab. The workshop was conducted from the 28th of June to the 3rd of July and was streamed live to our [YouTube channel](https://www.youtube.com/playlist?list=PLmEjjLGXj_meytRKhNccd_m5z6UUpsqM8). This repo contains all of the workshop slides and files.
 
 ## Software Requirements
 
